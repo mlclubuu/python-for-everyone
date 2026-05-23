@@ -68,11 +68,4 @@ Your ideas, fixes, and improvements will help make this resource better for ever
 
 ## 🧑‍💻 Maintainers
 This repository is maintained by **mlclubuu** and contributors who believe Python should be for everyone.
-
----
-
-✨ *Learning Python is the first step toward unlocking endless possibilities in programming. Dive in, experiment, and enjoy the journey!*  
-
----
-
 Would you like me to make this README more **academic-course styled** (like a syllabus with weekly topics), or more **community-driven** (like a collaborative learning hub)?
